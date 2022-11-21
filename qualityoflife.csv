@@ -1,4 +1,4 @@
-﻿#,Country,Stability,Rights,Health,Safety,Climate,Costs,Popularity,Total
+﻿Rating,Country,Stability,Rights,Health,Safety,Climate,Costs,Popularity,Total
 ,,-15%,-20%,-15%,-10%,-15%,-15%,-10%,-100%
 1,Australia,87,94,87,100,90,23,41,76
 2,Hong Kong *,79,82,100,97,49,61,52,75
