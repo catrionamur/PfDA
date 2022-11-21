@@ -1,239 +1,198 @@
-﻿Country ,Region,
-Afghanistan,South-Central Asia,
-Albania,Balkan Peninsula,
-Algeria,Northern Africa,
-Samoa,"Polynesia, Oceania",
-Andorra,Southern Europe,
-Angola,Central Africa,
-Anguilla,"Leeward Islands, Caribbean",
-Antarctica,Antarctica,Antarctica
-Antigua and Barbuda,"Leeward Islands, Caribbean",
-Argentina,Southern South America,
-Armenia,Western Asia,
-Aruba,"Leeward Islands, Caribbean",
-Australia,Australia/Oceania,
-Austria,Western Europe,
-Azerbaijan,"Caucasus, Western Asia",
-Bahamas,Caribbean,
-Bahrain,"Arabian Peninsula, Middle East",
-Bangladesh,South-Central Asia,
-Barbados,"Lesser Antilles, Caribbean",
-Belarus,Eastern Europe,
-Belgium,Western Europe,
-Belize,Central America,
-Benin,West Africa,
-Bermuda,North America,
-Bhutan,South-Central Asia,
-Bolivia,Central South America,
-Bosnia and Herzegovina,Southern Europe,
-Botswana,Southern Africa,
-Brazil,Central Eastern South America,
-Brunei Darussalam,Southeast Asia,
-Bulgaria,"Balkan, Eastern Europe",
-Burkina Faso,West Africa,
-Burundi,"Eastern Africa, African Great Lakes",
-Cambodia,South-East Asia,
-Cameroon,Central Africa,
-Canada,North North America,
-Cape Verde,West Africa,
-Cayman Islands,"Greater Antilles, Caribbean",
-Central African Republic,Central Africa,
-Chad,Central Africa,
-Chile,Western South America,
-China,Eastern Asia,
-Christmas Island,Southeast Asia,
-Cocos (Keeling) Islands,"South-East Asia, Australia",
-Colombia,North West South America,
-Comoros,Eastern Africa,
-Democratic Republic of the Congo (Kinshasa),Central Africa,
-"Congo, Republic of (Brazzaville)",Central Africa,
-Cook Islands,"Polynesia, Oceania",
-Costa Rica,Central America,
-Côte D'ivoire (Ivory Coast),West Africa,
-Croatia,"Balkan Peninsula, Southern Europe",
-Cuba,"Greater Antilles, Caribbean",
-Cyprus,"Mediterranean, Western Asia",
-Czech Republic,Eastern Europe,
-Denmark,Northern Europe,
-Djibouti,Eastern Africa,
-Dominica,"Lesser Antilles, Caribbean",
-Dominican Republic,"Greater Antilles, Caribbean",
-East Timor (Timor-Leste),South-East Asia,
-Ecuador,North West South America,
-Egypt,"Africa, Middle East",
-El Salvador,Central America,
-Equatorial Guinea,Central Africa,
-Eritrea,Eastern Africa,
-Estonia,Northern Europe,
-Ethiopia,Eastern Africa,
-Falkland Islands,Southern South America,
-Faroe Islands,Northern Europe,
-Fiji,"Melanesia, Oceania",
-Finland,Northern Europe,
-France,Western Europe,
-French Guiana,Northern South America,
-French Polynesia,"Polynesia, Oceania",
-French Southern Territories,Southern Indian Ocean,
-Gabon,Central Africa,
-The Gambia,West Africa,
-Georgia,Caucasus,
-Germany,Western Europe,
-Ghana,West Africa,
-Gibraltar,Southern Europe,
-Greece,Southern Europe,
-Greenland,North America,
-Grenada,"Lesser Antilles, Caribbean",
-Guadeloupe,"Lesser Antilles, Caribbean",
-Guam,"Micronesia, Oceania",
-Guatemala,Central America,
-Guinea,West Africa,
-Guinea-Bissau,West Africa,
-Guyana,North Eastern South America,
-Haiti,"Greater Antilles, Caribbean",
-Holy See,Southern Europe within Italy,
-Honduras,Central America,
-Hong Kong,Eastern Asia,
-Hungary,Eastern Europe,
-Iceland,Northern Europe,
-India,South-Central Asia,
-Indonesia,Maritime South-East Asia,
-Iran (Islamic Republic of),South-Central Asia,
-Iraq,"Middle East, Western Asia",
-Ireland,Northern Europe,
-Israel,"Middle East, Western Asia",
-Italy,Southern Europe,
-Ivory Coast,West Africa,
-Jamaica,"Greater Antilles, Caribbean",
-Japan,Eastern Asia,
-Jordan,"Middle East, Western Asia",
-Kazakhstan,Central Asia,
-Kenya,Eastern Africa,
-Kiribati,"Micronesia, Oceania",
-"Korea, Democratic People's Rep. (North Korea)",Eastern Asia,
-"Korea, Republic of (South Korea)",Eastern Asia,
-Kosovo Flag,"Albanian: : Kosova ou Kosovë,",
-"Serbian: Kosovo, ??????",,
-Kuwait,"Middle East, Western Asia",
-Kyrgyzstan,Central Asia,
-"Lao, People's Democratic Republic",South-East Asia,
-Latvia,Northern Europe,
-Lebanon,"Middle East, Western Asia",
-Lesotho,Southern Africa,
-Liberia,West Africa,
-Libya,Northern Africa,
-Liechtenstein,Western Europe,
-Lithuania,Northern Europe,
-Luxembourg,Western Europe,
-Macau,Eastern Asia,
-Madagascar,Eastern Africa,
-Malawi,Eastern Africa,
-Malaysia,Southeast Asia,
-Maldives,South-Central Asia,
-Mali,West Africa,
-Malta,Southern Europe,
-Marshall Islands,"Micronesia, Oceania",
-Martinique,"Lesser Antilles, Caribbean",
-Mauritania,West Africa,
-Mauritius,Eastern Africa,
-Mayotte,Eastern Africa,
-Mexico,North America,
-"Micronesia, Federal States of","Micronesia, Oceania",
-"Moldova, Republic of",Eastern Europe,
-Monaco,Southern Europe,
-Mongolia,Eastern Asia,
-Montenegro,Southern Europe,
-Montserrat,"Lesser Antilles, Caribbean",
-Morocco,Northern Africa,
-Mozambique,Eastern Africa,
-"Myanmar, Burma",Southeast Asia,
-Namibia,Southern Africa,
-Nauru,"Micronesia, Oceania",
-Nepal,South-Central Asia,
-Netherlands,Western Europe,
-Netherlands Antilles,Caribbean,
-New Caledonia,"Melanesia, Oceania",
-New Zealand,Oceania; Australia,
-Nicaragua,Central America,
-Niger,West Africa,
-Nigeria,West Africa,
-Niue,"Polynesia, Oceania",
-North Macedonia,"Balkan Peninsula, Southern Europe",
-Northern Mariana Islands,"Micronesia, Oceania",
-Norway,Northern Europe,
-Oman,Middle East,
-Pakistan,South-Central Asia,
-Palau,"Micronesia, Oceania",
-Palestinian territories,"Middle East, Western Asia",
-Panama,Central America,
-Papua New Guinea,"Maritime Southeast Asia, Melanesia, Oceania",
-Paraguay,Central South America,
-Peru,Western South America,
-Philippines,Southeast Asia,
-Pitcairn Island,"Polynesia, Oceania",
-Poland,Eastern Europe,
-Portugal,Southern Europe,
-Puerto Rico,"Greater Antilles, Caribbean",
-Qatar,"Arabian Peninsula, Middle East",
-Reunion Island,Eastern Africa,
-Romania,Eastern Europe,
-Russian Federation,Eastern Europe - Northern Asia,
-Rwanda,"Eastern Africa, African Great Lakes",
-Saint Kitts and Nevis,"Lesser Antilles, Caribbean",
-Saint Lucia,"Lesser Antilles, Caribbean",
-Saint Vincent and the Grenadines,"Lesser Antilles, Caribbean",
-Samoa,"Polynesia, Oceania",
-San Marino,Southern Europe within Italy,
-Sao Tome and Principe,Central Africa,
-Saudi Arabia,"Arabian Peninsula, Middle East",
-Senegal,West Africa,
-Serbia,Southern Europe,
-Seychelles,Eastern Africa,
-Sierra Leone,West Africa,
-Singapore,Southeast Asia,
-Slovakia (Slovak Republic),Eastern Europe,
-Slovenia,Southern Europe,
-Solomon Islands,"Melanesia, Oceania",
-Somalia,Eastern Africa,
-South Africa,Southern Africa,
-South Sudan,East-Central Africa,
-Spain,Southern Europe,
-Sri Lanka,South-Central Asia,
-Sudan,Northern Africa,
-Suriname,North-Eastern South America,
-Swaziland (Eswatini),Southern Africa,
-Sweden,Northern Europe,
-Switzerland,Western Europe,
-"Syria, Syrian Arab Republic","Middle East, Western Asia",
-Taiwan (Republic of China),Eastern Asia,
-Tajikistan,Central Asia,
-Tanzania; officially the United Republic of Tanzania,Eastern Africa,
-Thailand,South-East Asia,
-Tibet,South-Central Asia,
-Timor-Leste (East Timor),Maritime South-East Asia,
-Togo,West Africa,
-Tokelau,Oceania/Australia,
-Tonga,"Polynesia, Oceania",
-Trinidad and Tobago,"Northern South America, Caribbean",
-Tunisia,Northern Africa,
-Turkey,"Southeastern Europe, Western Asia",
-Turkmenistan,Central Asia,
-Turks and Caicos Islands,"Caribbean, parts of the Bahamas island chain.",
-Tuvalu,"Polynesia, Oceania",
-Uganda,Eastern Africa,
-Ukraine,Eastern Europe,
-United Arab Emirates,"Arabian Peninsula, Middle East",
-United Kingdom,Northern Europe,
-United States,North America,
-Uruguay,Central East South America,
-Uzbekistan,Central Asia,
-Vanuatu,"Melanesia, Oceania",
-Vatican City State (Holy See),Southern Europe within Italy,
-Venezuela,Northern South America,
-Vietnam,South-East Asia,
-Virgin Islands (British),"Lesser Antilles, Caribbean",
-Virgin Islands (U.S.),"Lesser Antilles, Caribbean",
-Wallis and Futuna Islands,"Polynesia, Oceania",
-Western Sahara,Northern Africa,
-Yemen,"Arabian Peninsula, Middle East",
-Zambia,Eastern Africa,
-Zimbabwe,Eastern Africa,
+﻿Country ,Region
+Bangladesh,Asia
+Bhutan,Asia
+Brunei,Asia
+Cambodia,Asia
+China,Asia
+India,Asia
+Indonesia,Asia
+Japan,Asia
+Kazakhstan,Asia
+North Korea,Asia
+South Korea,Asia
+Kyrgyzstan,Asia
+Laos,Asia
+Malaysia,Asia
+Maldives,Asia
+Mongolia,Asia
+Myanmar,Asia
+Nepal,Asia
+Philippines,Asia
+Singapore,Asia
+Sri Lanka,Asia
+Taiwan,Asia
+Tajikistan,Asia
+Thailand,Asia
+Turkmenistan,Asia
+Uzbekistan,Asia
+Vietnam,Asia
+Afghanistan,"Middle East, North Africa, and Greater Arabia"
+Algeria,"Middle East, North Africa, and Greater Arabia"
+Azerbaijan ,"Middle East, North Africa, and Greater Arabia"
+Bahrain,"Middle East, North Africa, and Greater Arabia"
+Egypt,"Middle East, North Africa, and Greater Arabia"
+Iran,"Middle East, North Africa, and Greater Arabia"
+Iraq,"Middle East, North Africa, and Greater Arabia"
+Israel,"Middle East, North Africa, and Greater Arabia"
+Jordan,"Middle East, North Africa, and Greater Arabia"
+Kuwait,"Middle East, North Africa, and Greater Arabia"
+Lebanon,"Middle East, North Africa, and Greater Arabia"
+Libya,"Middle East, North Africa, and Greater Arabia"
+Morocco,"Middle East, North Africa, and Greater Arabia"
+Oman,"Middle East, North Africa, and Greater Arabia"
+Pakistan,"Middle East, North Africa, and Greater Arabia"
+Qatar,"Middle East, North Africa, and Greater Arabia"
+Saudi Arabia,"Middle East, North Africa, and Greater Arabia"
+Somalia,"Middle East, North Africa, and Greater Arabia"
+Syria,"Middle East, North Africa, and Greater Arabia"
+Tunisia,"Middle East, North Africa, and Greater Arabia"
+Turkey,"Middle East, North Africa, and Greater Arabia"
+The United Arab Emirates,"Middle East, North Africa, and Greater Arabia"
+Yemen,"Middle East, North Africa, and Greater Arabia"
+Albania,Europe
+Andorra,Europe
+Armenia,Europe
+Austria,Europe
+Belarus,Europe
+Belgium,Europe
+Bosnia and Herzegovina,Europe
+Bulgaria,Europe
+Croatia,Europe
+Cyprus,Europe
+Czech Republic,Europe
+Denmark,Europe
+Estonia,Europe
+Finland,Europe
+France,Europe
+Georgia,Europe
+Germany,Europe
+Greece,Europe
+Hungary,Europe
+Iceland ,Europe
+Ireland,Europe
+Italy,Europe
+Kosovo,Europe
+Latvia,Europe
+Liechtenstein,Europe
+Lithuania,Europe
+Luxembourg,Europe
+Macedonia,Europe
+Malta,Europe
+Moldova,Europe
+Monaco,Europe
+Montenegro,Europe
+Netherlands,Europe
+Norway,Europe
+Poland,Europe
+Portugal,Europe
+Romania,Europe
+Russia,Europe
+San Marino,Europe
+Serbia,Europe
+Slovakia,Europe
+Slovenia,Europe
+Spain,Europe
+Sweden,Europe
+Switzerland,Europe
+Ukraine,Europe
+United Kingdom of Great Britain and Northern Ireland,Europe
+Vatican City,Europe
+Canada,North America
+Greenland,North America
+Mexico,North America
+The United States of America,North America
+Antigua and Barbuda,Central America and the Caribbean
+The Bahamas,Central America and the Caribbean
+Barbados,Central America and the Caribbean
+Belize,Central America and the Caribbean
+Costa Rica,Central America and the Caribbean
+Cuba,Central America and the Caribbean
+Dominica,Central America and the Caribbean
+Dominican Republic,Central America and the Caribbean
+El Salvador,Central America and the Caribbean
+Grenada,Central America and the Caribbean
+Guatemala,Central America and the Caribbean
+Haiti,Central America and the Caribbean
+Honduras,Central America and the Caribbean
+Jamaica,Central America and the Caribbean
+Nicaragua,Central America and the Caribbean
+Panama,Central America and the Caribbean
+Saint Kitts and Nevis,Central America and the Caribbean
+Saint Lucia,Central America and the Caribbean
+Saint Vincent and the Grenadines,Central America and the Caribbean
+Trinidad and Tobago,Central America and the Caribbean
+Argentina,South America
+Bolivia,South America
+Brazil,South America
+Chile,South America
+Colombia,South America
+Ecuador,South America
+Guyana,South America
+Paraguay,South America
+Peru,South America
+Suriname,South America
+Uruguay,South America
+Venezuela,South America
+Angola,Sub-Saharan Africa
+Benin,Sub-Saharan Africa
+Botswana,Sub-Saharan Africa
+Burkina Faso,Sub-Saharan Africa
+Burundi,Sub-Saharan Africa
+Cameroon,Sub-Saharan Africa
+Cape Verde,Sub-Saharan Africa
+The Central African Republic,Sub-Saharan Africa
+Chad,Sub-Saharan Africa
+Comoros,Sub-Saharan Africa
+Republic of the Congo,Sub-Saharan Africa
+The Democratic Republic of the Congo,Sub-Saharan Africa
+Cote d'Ivoire,Sub-Saharan Africa
+Djibouti,Sub-Saharan Africa
+Equatorial Guinea,Sub-Saharan Africa
+Eritrea,Sub-Saharan Africa
+Ethiopia,Sub-Saharan Africa
+Gabon,Sub-Saharan Africa
+The Gambia,Sub-Saharan Africa
+Ghana,Sub-Saharan Africa
+Guinea,Sub-Saharan Africa
+Guinea-Bissau,Sub-Saharan Africa
+Kenya,Sub-Saharan Africa
+Lesotho,Sub-Saharan Africa
+Liberia,Sub-Saharan Africa
+Madagascar,Sub-Saharan Africa
+Malawi,Sub-Saharan Africa
+Mali,Sub-Saharan Africa
+Mauritania,Sub-Saharan Africa
+Mauritius,Sub-Saharan Africa
+Mozambique,Sub-Saharan Africa
+Namibia,Sub-Saharan Africa
+Niger,Sub-Saharan Africa
+Nigeria,Sub-Saharan Africa
+Rwanda,Sub-Saharan Africa
+Sao Tome and Principe,Sub-Saharan Africa
+Senegal,Sub-Saharan Africa
+Seychelles,Sub-Saharan Africa
+Sierra Leone,Sub-Saharan Africa
+South Africa,Sub-Saharan Africa
+South Sudan,Sub-Saharan Africa
+Sudan,Sub-Saharan Africa
+Swaziland,Sub-Saharan Africa
+Tanzania,Sub-Saharan Africa
+Togo,Sub-Saharan Africa
+Uganda,Sub-Saharan Africa
+Zambia,Sub-Saharan Africa
+Zimbabwe,Sub-Saharan Africa
+Australia,Australia and Oceania
+East Timor,Australia and Oceania
+Fiji,Australia and Oceania
+Kiribati,Australia and Oceania
+Marshall Islands,Australia and Oceania
+The Federated States of Micronesia,Australia and Oceania
+Nauru,Australia and Oceania
+New Zealand,Australia and Oceania
+Palau,Australia and Oceania
+Papua New Guinea,Australia and Oceania
+Samoa,Australia and Oceania
+Solomon Islands,Australia and Oceania
+Tonga,Australia and Oceania
+Tuvalu,Australia and Oceania
+Vanuatu,Australia and Oceania
